@@ -1,9 +1,0 @@
-matplotlib
-numpy
-numpy_ringbuffer
-behave
-zmq
-pytz
-docker
-adafruit_blinka
-crcmod
